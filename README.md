@@ -1,1 +1,1 @@
-# AI-Stock-Market
+# StockAi
